@@ -9,3 +9,4 @@ When sorting, each line gets exactly one outcome: a new page, an addition to an 
 ## Pending
 
 - 2026-10-09 · human in the loop · conception d'Alambic
+- 2026-10-10 · GraphQL · erreur de `gh repo view` en créant le dépôt fundamentals
