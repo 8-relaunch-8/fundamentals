@@ -1,0 +1,13 @@
+# Le journal est privé : seul son README est publié
+journal/*
+!journal/README.md
+
+# macOS
+.DS_Store
+
+# Obsidian : on ne publie pas l'état de l'interface
+.obsidian/workspace*.json
+.obsidian/cache
+
+# Node.js
+node_modules/
